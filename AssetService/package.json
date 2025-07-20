@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "asp-mvc-template",
+  "private": true,
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "dependencies": {
+    "@abp/aspnetcore.mvc.ui.theme.leptonxlite": "~4.2.2"
+  }
+}
